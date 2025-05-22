@@ -1,0 +1,3 @@
+export LI_ACCESS_TOKEN="<token>"
+export LI_AUTHOR_URN="urn:li:organization:123456"  # oppure person
+python news_bot.py
