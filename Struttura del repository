@@ -1,0 +1,7 @@
+vps-energy-compass-bot/
+├── news_bot.py          # script principale
+├── feeds.yaml           # lista delle fonti RSS per ogni settore
+├── template.md          # template Markdown del post
+├── requirements.txt     # dipendenze Python
+└── .github/workflows/
+    └── weekly.yml       # GitHub Actions schedule
