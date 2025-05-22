@@ -1,0 +1,12 @@
+oil_gas:
+  - https://feeds.reuters.com/reuters/energyNews
+  - https://www.offshore-technology.com/feeds/site-feed.xml
+nuclear:
+  - https://world-nuclear-news.org/Default.aspx?format=feed&type=RSS
+  - https://atomicsciencenews.tumblr.com/rss
+hydrogen:
+  - https://www.hydrogeninsight.com/rss
+  - https://fuelcellsworks.com/feeds/index.rss
+natural_gas:
+  - https://www.spglobal.com/commodityinsights/en/market-insights/latest-news/rss
+  - https://iea.blob.core.windows.net/assets/feeds/natural_gas.xml
